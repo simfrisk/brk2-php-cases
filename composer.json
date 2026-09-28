@@ -1,0 +1,6 @@
+{
+  "require": {
+    "php": ">=8.1",
+    "acme-corp/this-package-does-not-exist-xyz123": "^1.0"
+  }
+}
