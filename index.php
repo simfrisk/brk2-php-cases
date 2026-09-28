@@ -1,3 +1,4 @@
 <?php
-echo "brk2 baseline OK\n";
-echo "PHP version: " . phpversion() . "\n";
+echo "brk2 syntax error test"
+// missing semicolon above, and unclosed brace below
+function broken( {
